@@ -1,0 +1,9 @@
+การติดตั้ง
+โจทย์ข้อ 2
+2.1. นำโฟลเดอร์ practice ไปใส่ใน โฟลเดอร์ xampp\htdocs
+2.2. เข้าเบราว์เซอร์ และเข้าลิงค์ http://localhost/practice/num_2/index.php
+
+
+โจทย์ข้อ 3 (หลังจากทำข้อ 2.1๗
+3.1. นำไฟล์ฐานข้อมูล sql ชื่อว่า album_img ไป import ใส่ใน mysql(phpMyAdmin)
+3.2. เข้าเบราว์เซอร์ และเข้าลิงค์ http://localhost/practice/num_3/index.php
